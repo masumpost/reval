@@ -1,0 +1,15 @@
+.sandwipi{
+    background-image: url("../image/carousel/1.jpg");
+    height: 100vh;
+}
+.sandwipi1{
+    background-image: url("../image/carousel/2.jpg");
+    height: 100vh;
+}
+.sandwipi2{
+    background-image: url("../image/carousel/5.jpg");
+    height: 100vh;
+}
+.client-img{
+    width: 160px;
+}
